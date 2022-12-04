@@ -6,7 +6,7 @@
 
 We will be classifying our neural network in two categories:- 
 
-- Benign tumor
+1. Benign tumor
  - Non-cancerous
  - Capsulated
  - Slow growing
@@ -16,7 +16,7 @@ We will be classifying our neural network in two categories:-
  ![image](https://user-images.githubusercontent.com/69293063/205481097-6525510f-596e-44b1-a2f6-b5771a75a3e8.png)
 
 
-- Malignant tumor
+2. Malignant tumor
  - Cancerous
  - Non-capsulated
  - Fast growing
