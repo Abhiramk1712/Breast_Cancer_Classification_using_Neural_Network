@@ -12,6 +12,7 @@ We will be classifying our neural network in two categories:-
  - Slow growing
  - Do not spread to other parts of the body
  - Cells are normal
+
  ![image](https://user-images.githubusercontent.com/69293063/205481097-6525510f-596e-44b1-a2f6-b5771a75a3e8.png)
 
 
@@ -21,12 +22,15 @@ We will be classifying our neural network in two categories:-
  - Fast growing
  - Spreads to other parts of the body
  - Cells have large, dark nuclei, may have abnormal growth
+
  ![image](https://user-images.githubusercontent.com/69293063/205481106-4c42f0c8-ebfe-4933-ad1a-cdb2f546e927.png)
 
 
 
-![image](https://user-images.githubusercontent.com/69293063/205481035-004e7589-7faf-4d14-a3c9-d64ec3999aac.png)
 
+![image](https://user-images.githubusercontent.com/69293063/205481035-004e7589-7faf-4d14-a3c9-d64ec3999aac.png)
+- a & b are Benign
+- c & d are Malignant
 
 About dataset:-
  - Fine needle aspiration is a type of biopsy procedure.
